@@ -2,6 +2,8 @@
 
 ## Project on Employee Salary in Python
 
+![--FLOWCHART--]()
+
 BY
 - Ashutosh
 - Kruthi
