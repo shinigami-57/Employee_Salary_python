@@ -2,7 +2,7 @@
 
 ## Project on Employee Salary in Python
 
-![--FLOWCHART--]()
+![--FLOWCHART--](https://github.com/shinigami-57/Employee_Salary_Python/blob/master/ProjectFlow.jpeg)
 
 BY
 - Ashutosh
