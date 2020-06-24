@@ -1,0 +1,41 @@
+--LOGIN--
+By: kru
+Date: 2020-06-23
+Time: 23:11:23.436389
+
+--TRANSACTION INITIATED--
+By: kru
+For Employee: 1001
+Amount: 20789.6
+Date: 2020-06-23
+Time: 23:11:26.945462
+
+--TRANSACTION INITIATED--
+By: kru
+For Employee: 1004
+Amount: 19500.0
+Date: 2020-06-23
+Time: 23:11:46.250116
+
+--LOGOUT--
+By: kru
+Date: 2020-06-23
+Time: 23:11:51.620958
+
+--LOGIN--
+By: mpatil
+Date: 2020-06-23
+Time: 23:12:40.489804
+
+--TRANSACTION INITIATED--
+By: mpatil
+For Employee: 1002
+Amount: 46250.0
+Date: 2020-06-23
+Time: 23:12:46.175112
+
+--LOGOUT--
+By: mpatil
+Date: 2020-06-23
+Time: 23:12:47.980681
+
