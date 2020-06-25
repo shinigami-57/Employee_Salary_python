@@ -23,7 +23,7 @@ $python3 main.py
 
 *ER-DIAGRAM*
 
-![ER DIAGRAM](https://github.com/shinigami-57/Employee_Salary_Python/blob/master/er_diagram.jpeg)
+![ER DIAGRAM](https://github.com/shinigami-57/Employee_Salary_Python/blob/master/er_diagram.JPEG)
 
 
 **BY**
