@@ -20,6 +20,7 @@ $python3 main.py
 
 ![--FLOWCHART--](https://github.com/shinigami-57/Employee_Salary_Python/blob/master/ProjectFlow.jpeg)
 
+
 *ER-DIAGRAM*
 
 ![ER DIAGRAM](https://github.com/shinigami-57/Employee_Salary_Python/blob/master/er_diagram.jpeg)
